@@ -1,0 +1,6 @@
+{
+  "name": "Seaside Schools",
+  "description": "The official website of Seaside Schools, featuring our coastal campus, code of conduct, and directories of our exceptional teachers and outstanding students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
